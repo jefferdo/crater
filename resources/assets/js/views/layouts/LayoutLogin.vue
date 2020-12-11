@@ -25,10 +25,10 @@
     >
       <div class="pl-20 xl:pl-0">
         <h1 class="hidden mb-3 text-3xl font-bold leading-normal text-white xl:text-5xl xl:leading-tight md:none lg:block">
-          KOKIInc™ In-house Finacial <br> managemnt System
+          KOKIInc™ In-House Financial <br> Management System
         </h1>
         <p class="hidden text-sm not-italic font-normal leading-normal text-gray-100 xl:text-base xl:leading-6 md:none lg:block" >
-          Autherizsed for KOKIInc Finance Department Only
+          Authorized for KOKIInc Finance Department Only
         </p>
       </div>
 
