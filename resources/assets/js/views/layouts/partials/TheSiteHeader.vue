@@ -1,18 +1,18 @@
 <template>
-  <header
+  <header style="height: 7rem;"
     class="fixed top-0 left-0 z-40 flex items-center justify-between w-full px-4 py-3 md:h-16 md:px-8 bg-gradient-to-r from-primary-500 to-primary-400"
   >
     <a
       href="/admin/dashboard"
       class="float-none text-lg not-italic font-black tracking-wider text-white brand-main md:float-left font-base"
     >
-      <img
+      <img style="height: 4.5rem;"
         id="logo-white"
         src="/assets/img/logo-white.png"
         alt="Crater Logo"
         class="hidden h-6 md:block"
       />
-      <img
+      <img style="height: 4rem;"
         id="logo-mobile"
         src="/assets/img/crater-white-small.png"
         alt="Crater Logo"

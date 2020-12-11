@@ -1,10 +1,9 @@
-<svg width="1012" height="1023" viewBox="0 0 1012 1023" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M116.21 472.5C55.1239 693.5 78.5219 837.5 114.349 1023H1030.5V-1L0 -106C147.5 21.5 172.311 269.536 116.21 472.5Z" fill="url(#paint0_linear)"/>
-    <defs>
-      <linearGradient id="paint0_linear" x1="515.25" y1="-106" x2="515.25" y2="1023" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#5851D8"/>
-        <stop offset="1" stop-color="#817AE3"/>
-      </linearGradient>
-    </defs>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1012 1023" style="enable-background:new 0 0 1012 1023;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#030046;}
+</style>
+<path class="st0" d="M116.2,472.5c-61.1,221-37.7,365-1.9,550.5h916.2V-1L0-106C147.5,21.5,172.3,269.5,116.2,472.5z"/>
 </svg>
-

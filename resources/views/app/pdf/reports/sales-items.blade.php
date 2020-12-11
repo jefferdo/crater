@@ -6,7 +6,7 @@
         body {
             font-family: "DejaVu Sans";
         }
-        
+
         table {
             border-collapse: collapse;
         }
@@ -22,7 +22,7 @@
         .heading-text {
             font-weight: bold;
             font-size: 24px;
-            color: #5851D8;
+            color: #030046;
             width: 100%;
             text-align: left;
             padding: 0px;
@@ -130,7 +130,7 @@
             font-weight: bold;
             font-size: 20px;
             line-height: 21px;
-            color: #5851D8;
+            color: #030046;
         }
         .text-center {
             text-align: center;
@@ -154,7 +154,7 @@
                 </td>
             </tr>
         </table>
-        
+
         <p class="sales-items-title">@lang('pdf_items_label')</p>
         @foreach ($items as $item)
             <div class="items-table-container">

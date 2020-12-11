@@ -29,7 +29,7 @@
         /* -- Header -- */
 
         .header-container {
-            background: #817AE3;
+            background: #030046;
             position: absolute;
             width: 100%;
             height: 141px;
@@ -321,7 +321,7 @@
         /* -- Helpers -- */
 
         .text-primary {
-            color: #5851DB;
+            color: #030046;
         }
 
         .text-center {

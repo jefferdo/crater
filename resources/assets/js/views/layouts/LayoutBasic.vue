@@ -2,7 +2,7 @@
   <div v-if="isAppLoaded" class="h-full">
     <base-modal />
     <site-header />
-    <div class="flex h-screen pt-16 pb-10 overflow-hidden">
+    <div style="padding-top: 7rem;" class="flex h-screen pt-16 pb-10 overflow-hidden">
       <site-sidebar />
       <router-view />
     </div>

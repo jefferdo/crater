@@ -264,7 +264,7 @@
             font-size: 14px;
             line-height: 21px;
             text-align: right;
-            color: #5851D8;
+            color: #030046;
         }
     </style>
 </head>

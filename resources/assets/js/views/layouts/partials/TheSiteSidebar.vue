@@ -41,7 +41,7 @@
       leave-class="translate-x-0"
       leave-to-class="-translate-x-full"
     >
-      <div
+      <div style="margin-top: 4.5rem;"
         v-show="isSidebarOpen"
         class="fixed top-0 z-30 w-64 h-screen pt-16 pb-32 overflow-y-auto bg-white border-r border-gray-200 border-solid sw-scroll md:hidden"
       >
